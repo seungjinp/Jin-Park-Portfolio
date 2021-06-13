@@ -765,6 +765,10 @@ a {
   font-family: 'Open Sans', sans-serif;
 }
 
+.text-span {
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 991px) {
   .hero-wrap {
     padding-right: 40px;
